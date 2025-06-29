@@ -40,7 +40,7 @@ We give already an user and remove old node and create new.
 
 ## 7
 
-`npm install && npm run seed && npm run createUser`
+`npm install && npm run seed`
 
 ## 8
 
