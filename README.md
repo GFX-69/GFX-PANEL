@@ -32,7 +32,7 @@ We give already an user and remove old node and create new.
 
 ## 5
 
-`apt install zip -y && unzip panel1.zip && cd panel`
+`apt install zip -y && unzip panel1.zip && cd panel1`
 
 ## 6
 
