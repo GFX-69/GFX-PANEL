@@ -36,9 +36,13 @@ We give already an user and remove old node and create new.
 
 ## 6
 
-`npm install && npm run seed && npm run createUser`
+`cd panel1 && cd panel`
 
 ## 7
+
+`npm install && npm run seed && npm run createUser`
+
+## 8
 
 `node .`
 
