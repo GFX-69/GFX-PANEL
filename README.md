@@ -4,10 +4,42 @@
 
 Its A normal Minecraft game panel free to use.
 
+## Note!
+
+We give already an user..and remove old npde must..
+
+## user - `admin`
+## pass - `admin123`
+
+
 ## Installation 
-Install - 'curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -'
 
-'apt-get install nodejs git'
+## 1
 
-Clone the repository :
 `git clone https://github.com/GFX-69/GFX-PANEL`
+
+## 2
+
+`cd GFX-PANEL`
+
+## 3
+
+`curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
+
+## 4
+
+`apt-get install nodejs git`
+
+## 5
+
+`apt install zip -y && unzip panel1.zip && cd panel`
+
+## 6
+
+`npm install && npm run seed && npm run createUser`
+
+## 7
+
+`node .`
+
+## Thanks For Using 💥
