@@ -6,7 +6,7 @@ Its A normal Minecraft game panel free to use.
 
 ## Note!
 
-We give already an user..and remove old npde must..
+We give already an user and remove old node and create new.
 
 ## user - `admin`
 ## pass - `admin123`
