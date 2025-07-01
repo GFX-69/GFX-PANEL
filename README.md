@@ -36,7 +36,7 @@ We give already an user and remove old node and create new.
 
 ## 6
 
-`cd panel1 && cd panel`
+`cd panel`
 
 ## 7
 
